@@ -11,10 +11,9 @@ rank 17 / 740
  - [rot727](https://github.com/EnchLolz/osu-gaming-ctf-25/blob/main/crypto/rot727.md) 648 solves, 1/5 difficulty
  - [beyond-wood](https://github.com/EnchLolz/osu-gaming-ctf-25/blob/main/crypto/beyond-wood.md) 392 solves, 1/5 difficulty
  - [xnor-xnor-xnor](https://github.com/EnchLolz/osu-gaming-ctf-25/blob/main/crypto/xnor-xnor-xnor.md) 348 solves, 1/5 difficulty
- - [pls-nominate]() 224 solves, 2/5 difficulty
- - [linear-feedback]() 142 solves, 2/5 difficulty
- - [ssss]() 128 solves, 2/5 difficulty
- - [please-nominate]() 72 solves, 3/5 difficulty
+ - [pls-nominate](https://github.com/EnchLolz/osu-gaming-ctf-25/blob/main/crypto/pls-nominate.md) 224 solves, 2/5 difficulty
+ - [linear-feedback](https://github.com/EnchLolz/osu-gaming-ctf-25/blob/main/crypto/linear-feedback.md) 142 solves, 2/5 difficulty
+ - [please-nominate](https://github.com/EnchLolz/osu-gaming-ctf-25/blob/main/crypto/please-nominate.md) 72 solves, 3/5 difficulty
 
 
 ### Kaijuu
