@@ -21,7 +21,7 @@ rank 17 / 740
  - [ss-me](https://github.com/EnchLolz/osu-gaming-ctf-25/blob/main/kaijuu/ss-me.md) 45 solves, 2/5 difficulty
 
 ### PPC
- - [modulation-master]() 30 solves, ?/5 difficulty
+ - [modulation-master](https://github.com/EnchLolz/osu-gaming-ctf-25/blob/main/ppc/modulation-master.md) 30 solves, ?/5 difficulty
 
 
 ### Rhythm
